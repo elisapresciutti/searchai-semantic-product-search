@@ -1,0 +1,8 @@
+*Lib/
+*Scripts/
+*CACHEDIR.TAG
+*pyvenv.cfg
+*DS_Store
+*src/io/
+*venv/
+*.python-version
